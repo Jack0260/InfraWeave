@@ -1,0 +1,6 @@
+{
+  "name": "InfraWeave",
+  "description": "Unified infrastructure simulation, constraint solver, and chaos modeling platform for multi-dimensional architecture decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
